@@ -1,0 +1,10 @@
+{
+  "indexes": [],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "GiangVien",
+      "fieldPath": "Image",
+      "indexes": []
+    }
+  ]
+}
